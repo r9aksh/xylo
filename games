@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XYLO Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>XYLO Games</h1>
+        </nav>
+    </header>
+    <main>
+        <div class="gameplay">
+            <div class="game" onclick="window.location.href='Game/Archery/index.html';">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Archery</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+            <div class="game">
+                <img class="imgclas" src="0.png" alt="">
+                <div class="gname">Game Name</div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div>
+        <p>@ DX GAMES 2023 - XYLO </p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
